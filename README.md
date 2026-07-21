@@ -28,4 +28,4 @@ Video Walkthrough
 ## Key Accomplishments
 * Built NMG.com domain from scratch
 * Solve a mock ticket where a user has the incorrect level of access.
-* [Add your third key accomplishment here]
+* I document completely every step.
