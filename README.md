@@ -4,6 +4,7 @@ Basic Employee Onboarding (AD)(RBAC)
 •	This project addresses a problem at a company called Northstar Medical Group. A growing healthcare company that delegated its Identity Lifecycle to a third-party MSP. They didn’t have any problems at first, but they started having issues as they grew. They started without any RBAC policy. Users were assigned access AD-HOC. And they didn’t have Audit trails or HIPAA Risks.
 
 Solution Overview
+
 •	The purpose of this solution is to create a basic employee channel in Active Directory. I installed the RBAC matrix and granted specific users access ONLY based on their role. I also solve a mock ticket where a user has the incorrect level of access.
 
 Video Walkthrough
